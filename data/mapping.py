@@ -182,13 +182,13 @@ feature_mapping = {
     "G1": {
         "name": "First Period Grade",
         "description": "First period grade (numeric: from 0 to 20)",
-        "type": "Categorical",
+        "type": "Integer",
         "demographic": None
     },
     "G2": {
         "name": "Second Period Grade",
         "description": "Second period grade (numeric: from 0 to 20)",
-        "type": "Categorical",
+        "type": "Integer",
         "demographic": None
     },
     "G3": {
